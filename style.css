@@ -22,5 +22,9 @@ input[type="number"] {
 }
 
 button {
-    
+    background-color: #4caf50;
+    color: white;
+    padding: 6px 10px;
+    border: none;
+    cursor: pointer;
 }
